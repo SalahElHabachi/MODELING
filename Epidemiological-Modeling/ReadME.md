@@ -64,7 +64,8 @@ conda install scipy
 
 ### Résultat (exemple) : 
 ---
-![Exemple](https://github.com/SalahElHabachi/MODELING/tree/main/Epidemiological-Modeling/image/exemple.PNG)
+![Screen de l'interface graphique](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/exemple2.PNG)
+
 
 >**Explication de la sortie de l'interface :**
 ---
@@ -84,7 +85,7 @@ conda install scipy
 
 > **Voici un exemple de deux figures enregistrées une avec params et l'autre sans params :**
 ---
->![Exemple](https://github.com/SalahElHabachi/MODELING/tree/main/Epidemiological-Modeling/image/exemple2.PNG)
+> ![Exemple](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/exemple2.PNG)
 ---
 
 ## Ressources  : 📻
@@ -112,5 +113,5 @@ Pour les gens qui seront intéressé par le sujet, et veulent aller un peu dans 
 
 
 ---
->![Thanks](https://github.com/SalahElHabachi/MODELING/tree/main/Epidemiological-Modeling/image/thanks.PNG)
+>![Thanks](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/thanks.PNG)
 ---
