@@ -64,7 +64,7 @@ conda install scipy
 
 ### Résultat (exemple) : 
 ---
-![Screen de l'interface graphique](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/exemple2.PNG)
+![Screen de l'interface graphique](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/exemple.PNG)
 
 
 >**Explication de la sortie de l'interface :**
