@@ -22,7 +22,7 @@ Cette application a donc été conçue pour faciliter l'analyse, la visualisatio
 ### Préprer le terrain : 😉
 1. Cloner le projet en local :
 ```bash
-git clone ...............
+git clone https://github.com/SalahElHabachi/MODELING
 ```
 2. Créer & Activer un environnement conda :
 ```bash
